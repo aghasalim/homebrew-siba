@@ -1,9 +1,9 @@
 class Sibac < Formula
   desc "SIBA Code: coding agent for your terminal"
-  homepage "https://siba.az"
-  url "https://github.com/aghasalim/sibac/archive/7d3206d96e0cdb3576964d7f29973b2fd5bd5b43.tar.gz"
-  version "0.2.0"
-  sha256 "3cb3739aabd1633327d701b578326beb7d6c96054f1e986ef86d516345f4ce71"
+  homepage "https://code.siba.az"
+  url "https://github.com/aghasalim/sibac/archive/3c36aef5aaaec8729195c8d36821cd417f17fe2a.tar.gz"
+  version "0.2.1"
+  sha256 "77801285363ab96d0ce7fcca105fdacc09fe9f3f13831eb0b93bc056c4b2a649"
   license "MIT"
 
   depends_on "node"
