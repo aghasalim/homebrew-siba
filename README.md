@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/banner.jpg" alt="Line drawing of a terminal window next to an open package box and a hop cone" width="100%"></p>
-
 # homebrew-siba
 
 Homebrew tap for [SIBA](https://siba.az) tools.
